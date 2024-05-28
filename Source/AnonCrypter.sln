@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonCrypter", "AnonCrypter\AnonCrypter.csproj", "{793A81C4-AE35-46DE-8D34-269D83D4A718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{793A81C4-AE35-46DE-8D34-269D83D4A718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793A81C4-AE35-46DE-8D34-269D83D4A718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793A81C4-AE35-46DE-8D34-269D83D4A718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793A81C4-AE35-46DE-8D34-269D83D4A718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB41A7F2-4A09-496B-8F6C-4A86E38C0C81}
+	EndGlobalSection
+EndGlobal
