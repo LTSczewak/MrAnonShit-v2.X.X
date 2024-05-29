@@ -41,7 +41,7 @@ Here we have classical lowlife case of 3rd worldy scamboys scamming some crypter
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LTSczewak/PhantomPrivate/main/Extras/5.png"  />
+  <img src="https://raw.githubusercontent.com/LTSczewak/MrAnonShit-v2.X.X/main/Pics/5.png"  />
 </div>
 
 ###
